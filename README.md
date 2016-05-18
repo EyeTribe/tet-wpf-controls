@@ -22,7 +22,7 @@ The EyeTribe API reference is found at [Eye Tribe Developer Website](http://dev.
 Samples
 ----
 
-Open source [C# Samples](https://github.com/EyeTribe/tet-csharp-samples) for windows are available through [GitHub](https://github.com/eyetribe). These samples shows how to calibrate the EyeTribe Server and give examples of how unique user experiences can be created using eye tracking.
+Open source [C# Samples](https://github.com/EyeTribe/tet-csharp-samples) for windows are available through [GitHub](https://github.com/eyetribe). This library is used in these samples and they show how to calibrate the EyeTribe Server and give examples of how unique user experiences can be created using eye tracking.
 
 Building (optional)
 ----
