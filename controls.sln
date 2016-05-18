@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{412CE0FE-4F29-44E4-A154-9405CA5D3237}"
-	ProjectSection(SolutionItems) = preProject
-		.build\Build.proj = .build\Build.proj
-		.build\Build.tasks = .build\Build.tasks
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controls-sdk-3.5", "controls-sdk\controls-sdk-3.5.csproj", "{06AFE9D0-7628-4CBA-B738-6CF20DCCC9F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controls-sdk-4.0", "controls-sdk\controls-sdk-4.0.csproj", "{D17C08E7-07BC-44F2-9CD7-20C7C20B0A5A}"
