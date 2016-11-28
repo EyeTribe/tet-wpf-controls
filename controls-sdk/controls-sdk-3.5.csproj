@@ -38,7 +38,7 @@
   <ItemGroup>
     <Reference Include="EyeTribe.ClientSdk, Version=0.9.77.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>$(SolutionDir)packages\EyeTribe.ClientSdk.0.9.77\lib\net35\EyeTribe.ClientSdk.dll</HintPath>
+      <HintPath>$(SolutionDir)packages\EyeTribe.ClientSdk.0.9.77.6\lib\net35\EyeTribe.ClientSdk.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
